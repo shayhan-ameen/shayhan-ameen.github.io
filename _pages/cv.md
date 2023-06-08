@@ -11,114 +11,114 @@ redirect_from:
 
 [Download CV here] (https://shayhan-ameen.github.io/files/cv.pdf)
 
-[//]: # (Education)
+<!-- Education
 
-[//]: # ()
-[//]: # (======)
 
-[//]: # ()
-[//]: # (* B.S. in GitHub, GitHub University, 2012)
+======
 
-[//]: # ()
-[//]: # (* M.S. in Jekyll, GitHub University, 2014)
 
-[//]: # ()
-[//]: # (* Ph.D in Version Control Theory, GitHub University, 2018 &#40;expected&#41;)
+* B.S. in GitHub, GitHub University, 2012
 
-[//]: # ()
-[//]: # ()
-[//]: # (Work experience)
 
-[//]: # ()
-[//]: # (======)
+* M.S. in Jekyll, GitHub University, 2014
 
-[//]: # ()
-[//]: # (* Summer 2015: Research Assistant)
 
-[//]: # ()
-[//]: # (  * Github University)
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-[//]: # ()
-[//]: # (  * Duties included: Tagging issues)
 
-[//]: # ()
-[//]: # (  * Supervisor: Professor Git)
 
-[//]: # ()
-[//]: # ()
-[//]: # (* Fall 2015: Research Assistant)
+Work experience
 
-[//]: # ()
-[//]: # (  * Github University)
 
-[//]: # ()
-[//]: # (  * Duties included: Merging pull requests)
+======
 
-[//]: # ()
-[//]: # (  * Supervisor: Professor Hub)
 
-[//]: # (  )
-[//]: # (Skills)
+* Summer 2015: Research Assistant
 
-[//]: # (======)
 
-[//]: # (* Skill 1)
+  * Github University
 
-[//]: # (* Skill 2)
 
-[//]: # (  * Sub-skill 2.1)
+  * Duties included: Tagging issues
 
-[//]: # (  * Sub-skill 2.2)
 
-[//]: # (  * Sub-skill 2.3)
+  * Supervisor: Professor Git
 
-[//]: # (* Skill 3)
 
-[//]: # ()
-[//]: # (Publications)
 
-[//]: # (======)
+* Fall 2015: Research Assistant
 
-[//]: # (  <ul>{% for post in site.publications %})
 
-[//]: # (    {% include archive-single-cv.html %})
+  * Github University
 
-[//]: # (  {% endfor %}</ul>)
+
+  * Duties included: Merging pull requests
+
+
+  * Supervisor: Professor Hub
 
   
-[//]: # (Talks)
+Skills
 
-[//]: # ()
-[//]: # (======)
+======
 
-[//]: # ()
-[//]: # (  <ul>{% for post in site.talks %})
+* Skill 1
 
-[//]: # ()
-[//]: # (    {% include archive-single-talk-cv.html %})
+* Skill 2
 
-[//]: # ()
-[//]: # (  {% endfor %}</ul>)
+  * Sub-skill 2.1
+
+  * Sub-skill 2.2
+
+  * Sub-skill 2.3
+
+* Skill 3
+
+
+Publications
+
+======
+
+  <ul>{% for post in site.publications %}
+
+    {% include archive-single-cv.html %}
+
+  {% endfor %}</ul>
 
   
-[//]: # (Teaching)
+Talks
 
-[//]: # ()
-[//]: # (======)
 
-[//]: # (  <ul>{% for post in site.teaching %})
+======
 
-[//]: # ()
-[//]: # (    {% include archive-single-cv.html %})
 
-[//]: # ()
-[//]: # (  {% endfor %}</ul>)
+  <ul>{% for post in site.talks %}
+
+
+    {% include archive-single-talk-cv.html %}
+
+
+  {% endfor %}</ul>
 
   
-[//]: # (Service and leadership)
+Teaching
 
-[//]: # ()
-[//]: # (======)
 
-[//]: # ()
-[//]: # (* Currently signed in to 43 different slack teams)
+======
+
+  <ul>{% for post in site.teaching %}
+
+
+    {% include archive-single-cv.html %}
+
+
+  {% endfor %}</ul>
+
+  
+Service and leadership
+
+
+======
+
+
+* Currently signed in to 43 different slack teams -->
