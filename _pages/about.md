@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Shayhan Ameen Chowdhury, currently a PhD student in DKE lab at KHU. I  also worked as an Assistant Professor in the Department of Computer Science and Engineering at International Islamic University Chittagong (IIUC) and I have completed my M.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology, Bangladesh.
+I am Shayhan Ameen Chowdhury, currently a PhD student at Kyung Hee University in Data and Knowledge Engineering Lab. I  also worked as an Assistant Professor in the Department of Computer Science and Engineering at International Islamic University Chittagong (IIUC) and I have completed my M.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology, Bangladesh.
 
 I have two and half years of research experience obtained at Computer Science and Engineering from Chittagong University of Engineering and Technology, Bangladesh. The results from my Master of Science (M.Sc.) in Computer Science and Engineering thesis are published in several international journals. I did my Bachelor of Science (B.Sc.) in Computer Science and Engineering at International Islamic University Chittagong. I was one of the core members of the university’s leading competitive programing team and participated in several programming contests. One of my significant achievements was the runner-up position in IIUC Inter-University Programming Contest – 2011. Currently, I also volunteer as a judge in several programming contests. My computer language skills are: C, C++, Java, JavaScript, PhP and Python. And I also have knowledge of TensorFlow, Keras, fastai and Matlab.
 
