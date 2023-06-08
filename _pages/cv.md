@@ -11,7 +11,7 @@ redirect_from:
 
 [Download CV here] (https://shayhan-ameen.github.io/files/cv.pdf)
 
-<!-- Education
+<!--  Education
 
 
 ======
